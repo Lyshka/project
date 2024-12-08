@@ -1,1 +1,3 @@
-const add = () => {};
+const add = () => {
+  console.log("hello!");
+};
